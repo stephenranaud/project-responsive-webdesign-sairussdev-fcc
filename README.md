@@ -7,7 +7,7 @@ This project is built with parcel.
 
 # Model 
 
-[Source de la  maquette ici](https://longstoryshortdesign.co.uk/projects/vim-and-vigour)&nbsp;&nbsp;  
+[Source of the model here](https://longstoryshortdesign.co.uk/projects/vim-and-vigour)&nbsp;&nbsp;  
 
 ![Model Vim & Vigour](https://raw.githubusercontent.com/stephenranaud/project-responsive-webdesign-sairussdev-fcc/main/thumbnail.jpg)&nbsp;&nbsp;  
 
