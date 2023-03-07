@@ -9,4 +9,4 @@ This project is built with parcel
 - npx run dev | development
 - npx run build | production
 
-![LeetCode Patterns](https://github.com/stephenranaud/leetcode-my-solutions/blob/main/thumbnail.jpg)&nbsp;&nbsp;
+![Model Vim & Vigour]([https://github.com/stephenranaud/leetcode-my-solutions/blob/main/thumbnail.jpg](https://raw.githubusercontent.com/stephenranaud/project-responsive-webdesign-sairussdev-fcc/main/thumbnail.jpg)&nbsp;&nbsp;
