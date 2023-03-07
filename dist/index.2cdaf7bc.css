@@ -1,0 +1,21 @@
+html, *, :before, :after {
+  box-sizing: border-box;
+}
+
+:root {
+  --black: "#2E2D33";
+  --white: "#FFFFFF";
+  --fs-1: clamp(1rem, calc(1rem + 2vmin), 20px);
+  --fs-adaptative-1: clamp(24rem, calc(24rem + 2vmin), 32px);
+  --ff-body: Roboto, sans;
+  --ff-heading: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  background-color: var(--black);
+  font-family: var(--ff-heading);
+  margin: 0;
+  padding: 0;
+}
+
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
