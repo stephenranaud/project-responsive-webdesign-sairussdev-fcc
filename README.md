@@ -9,5 +9,5 @@ This project is built with parcel
 - npx run dev | development
 - npx run build | production
 
-[Source](https://longstoryshortdesign.co.uk/projects/vim-and-vigour)
+[Source](https://longstoryshortdesign.co.uk/projects/vim-and-vigour)&nbsp;&nbsp;
 ![Model Vim & Vigour](https://raw.githubusercontent.com/stephenranaud/project-responsive-webdesign-sairussdev-fcc/main/thumbnail.jpg)&nbsp;&nbsp;
